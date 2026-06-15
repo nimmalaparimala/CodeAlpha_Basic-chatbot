@@ -1,8 +1,3 @@
-# ============================================================
-#  CodeAlpha — Task 4: Basic Rule-Based Chatbot
-#  Author : Your Name
-#  Repo   : github.com/YourUsername/CodeAlpha_BasicChatbot
-# ============================================================
 
 import random
 import re
